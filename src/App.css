@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  position: relative;
+  padding-top: 56px; /* Sesuaikan dengan tinggi navbar */
+}
+
+header#home {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=1932&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+section {
+    scroll-margin-top: 56px; /* Offset untuk anchor link karena navbar fixed */
+}
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%; /* Aspect ratio 16:9 */
+    position: relative;
+    height: 0;
+}
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
