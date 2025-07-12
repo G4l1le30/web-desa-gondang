@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/web-desa-gondang/static/css/main.fa4801eb.css",
+    "main.js": "/web-desa-gondang/static/js/main.2d63399e.js",
+    "static/js/453.a1a16889.chunk.js": "/web-desa-gondang/static/js/453.a1a16889.chunk.js",
+    "static/media/struktur-organisasi.png": "/web-desa-gondang/static/media/struktur-organisasi.1234fa0d603f294c27a1.png",
+    "static/media/logo.png": "/web-desa-gondang/static/media/logo.6f206ef64e67ff82877b.png",
+    "index.html": "/web-desa-gondang/index.html",
+    "main.fa4801eb.css.map": "/web-desa-gondang/static/css/main.fa4801eb.css.map",
+    "main.2d63399e.js.map": "/web-desa-gondang/static/js/main.2d63399e.js.map",
+    "453.a1a16889.chunk.js.map": "/web-desa-gondang/static/js/453.a1a16889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4801eb.css",
+    "static/js/main.2d63399e.js"
+  ]
+}
