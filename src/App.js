@@ -122,20 +122,20 @@ function App() {
             </div>
              <div className="row mt-5 justify-content-center">
                 <div className="col-md-3 text-center">
-                    <h5>Slamet Shoni Harianto [cite: 9]</h5>
-                    <p className="text-muted">Kepala Desa [cite: 10]</p>
+                    <h5>Slamet Shoni Harianto</h5>
+                    <p className="text-muted">Kepala Desa</p>
                 </div>
                  <div className="col-md-3 text-center">
-                    <h5>Moch. Syaifudin Anwar [cite: 11]</h5>
-                    <p className="text-muted">Sekretaris Desa [cite: 11]</p>
+                    <h5>Moch. Syaifudin Anwar</h5>
+                    <p className="text-muted">Sekretaris Desa</p>
                 </div>
                  <div className="col-md-3 text-center">
-                    <h5>Eko Pujianto [cite: 6]</h5>
-                    <p className="text-muted">Seksi Pemerintahan [cite: 7]</p>
+                    <h5>Eko Pujianto</h5>
+                    <p className="text-muted">Seksi Pemerintahan</p>
                 </div>
                  <div className="col-md-3 text-center">
-                    <h5>Setya Budi [cite: 8]</h5>
-                    <p className="text-muted">Seksi Kesejahteraan dan Pelayanan [cite: 13]</p>
+                    <h5>Setya Budi</h5>
+                    <p className="text-muted">Seksi Kesejahteraan dan Pelayanan</p>
                 </div>
             </div>
           </div>
