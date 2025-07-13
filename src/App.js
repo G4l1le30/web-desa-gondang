@@ -3,6 +3,7 @@ import './App.css';
 
 // Import gambar dari folder assets
 import logo from './assets/logo.png';
+import peta from './assets/desa.png';
 import strukturOrganisasi from './assets/struktur-organisasi.png';
 
 function App() {
@@ -151,7 +152,7 @@ function App() {
                 </div>
                 <div className="text-center">
                     {/* Icon untuk representasi visual */}
-                    <i className="bi bi-map-fill" style={{ fontSize: '4rem', color: '#0a586a' }}></i>
+                    <img src={peta} alt="Peta Desa Gondang" className="img-fluid rounded shadow" style={{ maxWidth: '100%', height: 'auto' }} />
                     
                     {/* Tombol yang mengarah ke Peta Interaktif Anda */}
                     <div className="d-grid gap-2 col-6 mx-auto mt-4">
